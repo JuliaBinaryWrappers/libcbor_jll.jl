@@ -1,0 +1,160 @@
+[[libcbor]]
+arch = "aarch64"
+git-tree-sha1 = "ac23acdf0fdbf3317d45c552f23357d87867ddf4"
+os = "macos"
+
+    [[libcbor.download]]
+    sha256 = "38b3ff542b7fe218e79fe6b8645833a8d357d7e03168a103b20dbbd7f1cf2453"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.aarch64-apple-darwin.tar.gz"
+[[libcbor]]
+arch = "aarch64"
+git-tree-sha1 = "ebbbabc33e380f7aefc684c1ea9c46222e827a7d"
+libc = "glibc"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "37137bb76f08ab086006321d8ef7ff2515ead039fd3ff6740ae543ba83c0c330"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.aarch64-linux-gnu.tar.gz"
+[[libcbor]]
+arch = "aarch64"
+git-tree-sha1 = "9dc860d8760c4575ea7a44b0e4f4ec5f7c09aeb5"
+libc = "musl"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "89e43d256765ff5b3dabe892e502b2e2fe8d0a9e129d4bba76fc8d6f942d9b61"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.aarch64-linux-musl.tar.gz"
+[[libcbor]]
+arch = "aarch64"
+git-tree-sha1 = "3da31e73efd62eaa60f0563b287dae1b751ea97e"
+os = "freebsd"
+
+    [[libcbor.download]]
+    sha256 = "c2b62cb91df883bfaed9e5e769a7e783bc1a7947f7eec3793166d10ab21c2984"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.aarch64-unknown-freebsd.tar.gz"
+[[libcbor]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "33489e93f5c9a5d2f6660e295fe20f5cd8e229c6"
+libc = "glibc"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "6d53a815d936abd798571d5866227cbc441b4a64949f85ac71c97ad99d45230d"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.armv6l-linux-gnueabihf.tar.gz"
+[[libcbor]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "da0ab7dad5c3a6ad9401abfa6a9acabdb78ca99a"
+libc = "musl"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "2bd3b32ec9d3174dc3ce8170499d93f8c7c53dfbbf4ffe0843f368111132831c"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.armv6l-linux-musleabihf.tar.gz"
+[[libcbor]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0da805dc86bb5908355dc9f27435c7c67cdca074"
+libc = "glibc"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "811a35ae8e9bb0379115279df4fc629ade663b2ef8671f1c5bf6fe5f8b89fcef"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.armv7l-linux-gnueabihf.tar.gz"
+[[libcbor]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "55bc8af6e90a4122e8aa60642bb067ada31077ae"
+libc = "musl"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "a70ba63d239be15769e24370ffed5ec89c74abc1ac68afc88970b5bd41d1fd46"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.armv7l-linux-musleabihf.tar.gz"
+[[libcbor]]
+arch = "i686"
+git-tree-sha1 = "f3d7247ccce8ae9dd7ded8e1771a51bc12a335d7"
+libc = "glibc"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "30fa2f2534466d97c0ad30322fcb3af54be736c32a099c0bafc9b0909876f95d"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.i686-linux-gnu.tar.gz"
+[[libcbor]]
+arch = "i686"
+git-tree-sha1 = "694e6c7ee22fc0bf70f739ce61ef0068eff9e8fd"
+libc = "musl"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "3209c62de6b7e5068a00ebbbd1a01d0c669a60e22270c33868a6d3dead12b3eb"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.i686-linux-musl.tar.gz"
+[[libcbor]]
+arch = "i686"
+git-tree-sha1 = "4f32ea78911969818939701866bf086ca9a6eba4"
+os = "windows"
+
+    [[libcbor.download]]
+    sha256 = "0854ecaaa584a1b5ce9adec2b153fba21b50ac9c1136bb14cf74423dba732e94"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.i686-w64-mingw32.tar.gz"
+[[libcbor]]
+arch = "powerpc64le"
+git-tree-sha1 = "90b1f9510071aedc10a69c477be7a60f9d780980"
+libc = "glibc"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "8f0ef4a48a205caccb7f79bcc24e5f9b44c586831f6c64c4c5c06520a8bc05f5"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.powerpc64le-linux-gnu.tar.gz"
+[[libcbor]]
+arch = "riscv64"
+git-tree-sha1 = "750a06644ca432d641e90077b9504a0bd37ae3b2"
+libc = "glibc"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "7a1db7bd0dcd5da4feb2311e0b1952b78908066e73bcb7f31c0c655a6b3a9d77"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.riscv64-linux-gnu.tar.gz"
+[[libcbor]]
+arch = "x86_64"
+git-tree-sha1 = "8fa6621e874c26e2be427653bed6780542589aeb"
+os = "macos"
+
+    [[libcbor.download]]
+    sha256 = "232c70e4a9fe6150749b9447a1ec8095c29721a3e24e73e6c82f92c75068421c"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.x86_64-apple-darwin.tar.gz"
+[[libcbor]]
+arch = "x86_64"
+git-tree-sha1 = "f5a0ed4197c3be4e32b0de43fbce803dd19b50d8"
+libc = "glibc"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "af3137eef25dacc1c98d85f94a4f715ff80c1c98ae42cd0c76ce794448087c5a"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.x86_64-linux-gnu.tar.gz"
+[[libcbor]]
+arch = "x86_64"
+git-tree-sha1 = "6c61359e1c64513c1160c1751e62a6e4ca06d408"
+libc = "musl"
+os = "linux"
+
+    [[libcbor.download]]
+    sha256 = "acc02830b400b14eecf25711500c3f7c2b8df482ab86eeb540d43e84fcaa6020"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.x86_64-linux-musl.tar.gz"
+[[libcbor]]
+arch = "x86_64"
+git-tree-sha1 = "27141a9c0e92818051018368dc89737864a06518"
+os = "freebsd"
+
+    [[libcbor.download]]
+    sha256 = "f278a52abe11bd62da8ad216fb28a678284fdb0d98ddb2e6ca66e2c14ff6d53c"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.x86_64-unknown-freebsd.tar.gz"
+[[libcbor]]
+arch = "x86_64"
+git-tree-sha1 = "e0e3888a5b2cd3f4c94fbe4ccd0a0023aa989231"
+os = "windows"
+
+    [[libcbor.download]]
+    sha256 = "d1c0e2dc07a4102e6dc040db329f38e8cd96197f86a26771200da2d3c720d711"
+    url = "https://github.com/JuliaBinaryWrappers/libcbor_jll.jl/releases/download/libcbor-v0.12.0+0/libcbor.v0.12.0.x86_64-w64-mingw32.tar.gz"
